@@ -1,0 +1,23 @@
+.logo-header {
+    width: 300px ;
+    height: auto;
+}
+
+.bg-list li{
+    background-color: rgb(158, 158, 158);
+    list-style-position: inside;
+    margin-bottom: 5PX;
+}
+
+.gambaran-umum li {
+    list-style: lower-alpha;
+    list-style-position: outside;
+    text-align: justify;
+    background-color: #ffffff;
+
+}
+
+.gambaran-umum-list li{
+    list-style: disc;;
+}
+
